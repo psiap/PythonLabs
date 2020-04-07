@@ -1,0 +1,4 @@
+x: type [N]
+name: int[6]
+sege: short[35]
+breb: char[13]
