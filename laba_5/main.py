@@ -1,5 +1,4 @@
-def get_vowels(String):
-    return [each for each in String if each in "aeiou"]
-get_vowels("animal") # [a, i, a]
-get_vowels("sky") # []
-get_vowels("football") # [o, o, a]
+a = [1,2,3]
+b = a
+a.append(4)
+print(b)
