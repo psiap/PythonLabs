@@ -1,5 +1,5 @@
 ##1
-
+#test
 try:
  count = float(input("Введите сумму: "))
  cop = (count - int(count)) * 100 
